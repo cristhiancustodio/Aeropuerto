@@ -5,11 +5,11 @@ namespace Aeropuerto\Model\Conexion;
 use PDO;
 use PDOException;
 class Connect{
-    private $bd;
-    private $host='localhost:3307';
-    private $usuario='root';
-    private $password='luisnunura123456';
-    public function __construct($bd){
+    private string $bd;
+    private string $host='localhost:3307';
+    private string $usuario='root';
+    private string $password='luisnunura123456';
+    public function __construct(string $bd){
         $this->bd = $bd;
     }
     private function conectar(){
@@ -33,19 +33,19 @@ class Connect{
     }
     public function sentenciaSimple(?string $sql) : ?array {
         $con = $this->conectar();
-        $stmt=$con->query($sql);
-        $row=$stmt->fetch(PDO::FETCH_OBJ);
+        $stmt = $con->query($sql);
+        $row = $stmt->fetch(PDO::FETCH_OBJ);
         return $row;  
     }
     public function sentencia(?string $sql) : ?array{
         $con=$this->conectar();
-        $stmt=$con->query($sql);
-        $row=$stmt->fetchAll(PDO::FETCH_OBJ);
+        $stmt = $con->query($sql);
+        $row = $stmt->fetchAll(PDO::FETCH_OBJ);
         return $row;  
     }
-    public function ejecutar(?string $sql,?array $lista=null) : bool{
+    public function ejecutar(?string $sql, ?array $lista=null) : bool{
         $con = $this->conectar();
-        $stmt=$con->prepare($sql);
+        $stmt = $con->prepare($sql);
         return $stmt->execute($lista);  
     }
 }

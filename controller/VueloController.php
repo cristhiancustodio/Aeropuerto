@@ -9,7 +9,7 @@ class Vuelo {
       
     }
 
-    public function insertarVuelos($lis){
+    public function insertarVuelos(array $lis){
         $vuelo = new VueloModel();
         $lis = (object)$lis;
         $campos = [
@@ -19,10 +19,10 @@ class Vuelo {
             $lis->transporte,
             $lis->numero_escalas,
         ];
-        $data = $vuelo->insert($campos);
-        if($data){
-           return true;
+        if($vuelo->insert($campos)){
+            return true;
         }
+        
     }
     
 }
@@ -39,11 +39,11 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 
 }
 if($_SERVER["REQUEST_METHOD"]=="GET"){
-if(isset($_GET["obt"])){
-    if($_GET["obt"]==='1'){
-        $data = $vuelo_model->select();
-        echo json_encode($data,true);
-    }
+if(isset($_GET["obt"]) && $_GET["obt"]==='1'){
+    
+    $data = $vuelo_model->select();
+    echo json_encode($data,true);
+    
 }
 
 }
