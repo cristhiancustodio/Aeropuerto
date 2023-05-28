@@ -1,0 +1,1094 @@
+[
+    {
+      "NACP_Codigo": 1,
+      "NACC_Descripcion": "BOUVET ISLAND"
+    },
+    {
+      "NACP_Codigo": 2,
+      "NACC_Descripcion": "COTE D IVOIRE"
+    },
+    {
+      "NACP_Codigo": 3,
+      "NACC_Descripcion": "FALKLAND ISLANDS (MALVINAS)"
+    },
+    {
+      "NACP_Codigo": 4,
+      "NACC_Descripcion": "FRANCE, METROPOLITAN"
+    },
+    {
+      "NACP_Codigo": 5,
+      "NACC_Descripcion": "FRENCH SOUTHERN TERRITORIES"
+    },
+    {
+      "NACP_Codigo": 6,
+      "NACC_Descripcion": "HEARD AND MC DONALD ISLANDS"
+    },
+    {
+      "NACP_Codigo": 7,
+      "NACC_Descripcion": "MAYOTTE"
+    },
+    {
+      "NACP_Codigo": 8,
+      "NACC_Descripcion": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+    },
+    {
+      "NACP_Codigo": 9,
+      "NACC_Descripcion": "SVALBARD AND JAN MAYEN ISLANDS"
+    },
+    {
+      "NACP_Codigo": 10,
+      "NACC_Descripcion": "UNITED STATES MINOR OUTLYING ISLANDS"
+    },
+    {
+      "NACP_Codigo": 11,
+      "NACC_Descripcion": "OTROS PAISES O LUGARES"
+    },
+    {
+      "NACP_Codigo": 12,
+      "NACC_Descripcion": "AFGANISTAN"
+    },
+    {
+      "NACP_Codigo": 13,
+      "NACC_Descripcion": "ALBANIA"
+    },
+    {
+      "NACP_Codigo": 14,
+      "NACC_Descripcion": "ALDERNEY"
+    },
+    {
+      "NACP_Codigo": 15,
+      "NACC_Descripcion": "ALEMANIA"
+    },
+    {
+      "NACP_Codigo": 16,
+      "NACC_Descripcion": "ARMENIA"
+    },
+    {
+      "NACP_Codigo": 17,
+      "NACC_Descripcion": "ARUBA"
+    },
+    {
+      "NACP_Codigo": 18,
+      "NACC_Descripcion": "ASCENCION"
+    },
+    {
+      "NACP_Codigo": 19,
+      "NACC_Descripcion": "BOSNIA-HERZEGOVINA"
+    },
+    {
+      "NACP_Codigo": 20,
+      "NACC_Descripcion": "BURKINA FASO"
+    },
+    {
+      "NACP_Codigo": 21,
+      "NACC_Descripcion": "ANDORRA"
+    },
+    {
+      "NACP_Codigo": 22,
+      "NACC_Descripcion": "ANGOLA"
+    },
+    {
+      "NACP_Codigo": 23,
+      "NACC_Descripcion": "ANGUILLA"
+    },
+    {
+      "NACP_Codigo": 24,
+      "NACC_Descripcion": "ANTIGUA Y BARBUDA"
+    },
+    {
+      "NACP_Codigo": 25,
+      "NACC_Descripcion": "ANTILLAS HOLANDESAS"
+    },
+    {
+      "NACP_Codigo": 26,
+      "NACC_Descripcion": "ARABIA SAUDITA"
+    },
+    {
+      "NACP_Codigo": 27,
+      "NACC_Descripcion": "ARGELIA"
+    },
+    {
+      "NACP_Codigo": 28,
+      "NACC_Descripcion": "ARGENTINA"
+    },
+    {
+      "NACP_Codigo": 29,
+      "NACC_Descripcion": "AUSTRALIA"
+    },
+    {
+      "NACP_Codigo": 30,
+      "NACC_Descripcion": "AUSTRIA"
+    },
+    {
+      "NACP_Codigo": 31,
+      "NACC_Descripcion": "AZERBAIJÃN"
+    },
+    {
+      "NACP_Codigo": 32,
+      "NACC_Descripcion": "BAHAMAS"
+    },
+    {
+      "NACP_Codigo": 33,
+      "NACC_Descripcion": "BAHREIN"
+    },
+    {
+      "NACP_Codigo": 34,
+      "NACC_Descripcion": "BANGLA DESH"
+    },
+    {
+      "NACP_Codigo": 35,
+      "NACC_Descripcion": "BARBADOS"
+    },
+    {
+      "NACP_Codigo": 36,
+      "NACC_Descripcion": "BÃ‰LGICA"
+    },
+    {
+      "NACP_Codigo": 37,
+      "NACC_Descripcion": "BELICE"
+    },
+    {
+      "NACP_Codigo": 38,
+      "NACC_Descripcion": "BERMUDAS"
+    },
+    {
+      "NACP_Codigo": 39,
+      "NACC_Descripcion": "BELARUS"
+    },
+    {
+      "NACP_Codigo": 40,
+      "NACC_Descripcion": "MYANMAR"
+    },
+    {
+      "NACP_Codigo": 41,
+      "NACC_Descripcion": "BOLIVIA"
+    },
+    {
+      "NACP_Codigo": 42,
+      "NACC_Descripcion": "BOTSWANA"
+    },
+    {
+      "NACP_Codigo": 43,
+      "NACC_Descripcion": "BRASIL"
+    },
+    {
+      "NACP_Codigo": 44,
+      "NACC_Descripcion": "BRUNEI DARUSSALAM"
+    },
+    {
+      "NACP_Codigo": 45,
+      "NACC_Descripcion": "BULGARIA"
+    },
+    {
+      "NACP_Codigo": 46,
+      "NACC_Descripcion": "BURUNDI"
+    },
+    {
+      "NACP_Codigo": 47,
+      "NACC_Descripcion": "BUTÃN"
+    },
+    {
+      "NACP_Codigo": 48,
+      "NACC_Descripcion": "CABO VERDE"
+    },
+    {
+      "NACP_Codigo": 49,
+      "NACC_Descripcion": "CAIMÃN, ISLAS"
+    },
+    {
+      "NACP_Codigo": 50,
+      "NACC_Descripcion": "CAMBOYA"
+    },
+    {
+      "NACP_Codigo": 51,
+      "NACC_Descripcion": "CAMERÃšN, REPUBLICA UNIDA DEL"
+    },
+    {
+      "NACP_Codigo": 52,
+      "NACC_Descripcion": "CAMPIONE D TALIA"
+    },
+    {
+      "NACP_Codigo": 53,
+      "NACC_Descripcion": "CANADÁ"
+    },
+    {
+      "NACP_Codigo": 54,
+      "NACC_Descripcion": "CANAL (NORMANDAS), ISLAS"
+    },
+    {
+      "NACP_Codigo": 55,
+      "NACC_Descripcion": "CANTÃ“N Y ENDERBURRY"
+    },
+    {
+      "NACP_Codigo": 56,
+      "NACC_Descripcion": "SANTA SEDE"
+    },
+    {
+      "NACP_Codigo": 57,
+      "NACC_Descripcion": "COCOS (KEELING),ISLAS"
+    },
+    {
+      "NACP_Codigo": 58,
+      "NACC_Descripcion": "COLOMBIA"
+    },
+    {
+      "NACP_Codigo": 59,
+      "NACC_Descripcion": "COMORAS"
+    },
+    {
+      "NACP_Codigo": 60,
+      "NACC_Descripcion": "CONGO"
+    },
+    {
+      "NACP_Codigo": 61,
+      "NACC_Descripcion": "COOK, ISLAS"
+    },
+    {
+      "NACP_Codigo": 62,
+      "NACC_Descripcion": "COREA (NORTE), REPUBLICA POPULAR DEMOCRATICA DE"
+    },
+    {
+      "NACP_Codigo": 63,
+      "NACC_Descripcion": "COREA (SUR), REPUBLICA DE"
+    },
+    {
+      "NACP_Codigo": 64,
+      "NACC_Descripcion": "COSTA DE MARFIL"
+    },
+    {
+      "NACP_Codigo": 65,
+      "NACC_Descripcion": "COSTA RICA"
+    },
+    {
+      "NACP_Codigo": 66,
+      "NACC_Descripcion": "CROACIA"
+    },
+    {
+      "NACP_Codigo": 67,
+      "NACC_Descripcion": "CUBA"
+    },
+    {
+      "NACP_Codigo": 68,
+      "NACC_Descripcion": "CHAD"
+    },
+    {
+      "NACP_Codigo": 69,
+      "NACC_Descripcion": "CHECOSLOVAQUIA"
+    },
+    {
+      "NACP_Codigo": 70,
+      "NACC_Descripcion": "CHILE"
+    },
+    {
+      "NACP_Codigo": 71,
+      "NACC_Descripcion": "CHINA"
+    },
+    {
+      "NACP_Codigo": 72,
+      "NACC_Descripcion": "TAIWAN (FORMOSA)"
+    },
+    {
+      "NACP_Codigo": 73,
+      "NACC_Descripcion": "CHIPRE"
+    },
+    {
+      "NACP_Codigo": 74,
+      "NACC_Descripcion": "BENIN"
+    },
+    {
+      "NACP_Codigo": 75,
+      "NACC_Descripcion": "DINAMARCA"
+    },
+    {
+      "NACP_Codigo": 76,
+      "NACC_Descripcion": "DOMINICA"
+    },
+    {
+      "NACP_Codigo": 77,
+      "NACC_Descripcion": "ECUADOR"
+    },
+    {
+      "NACP_Codigo": 78,
+      "NACC_Descripcion": "EGIPTO"
+    },
+    {
+      "NACP_Codigo": 79,
+      "NACC_Descripcion": "EL SALVADOR"
+    },
+    {
+      "NACP_Codigo": 80,
+      "NACC_Descripcion": "ERITREA"
+    },
+    {
+      "NACP_Codigo": 81,
+      "NACC_Descripcion": "EMIRATOS ARABES UNIDOS"
+    },
+    {
+      "NACP_Codigo": 82,
+      "NACC_Descripcion": "ESPANA"
+    },
+    {
+      "NACP_Codigo": 83,
+      "NACC_Descripcion": "ESLOVAQUIA"
+    },
+    {
+      "NACP_Codigo": 84,
+      "NACC_Descripcion": "ESLOVENIA"
+    },
+    {
+      "NACP_Codigo": 85,
+      "NACC_Descripcion": "ESTADOS UNIDOS"
+    },
+    {
+      "NACP_Codigo": 86,
+      "NACC_Descripcion": "ESTONIA"
+    },
+    {
+      "NACP_Codigo": 87,
+      "NACC_Descripcion": "ETIOPIA"
+    },
+    {
+      "NACP_Codigo": 88,
+      "NACC_Descripcion": "FEROE, ISLAS"
+    },
+    {
+      "NACP_Codigo": 89,
+      "NACC_Descripcion": "FILIPINAS"
+    },
+    {
+      "NACP_Codigo": 90,
+      "NACC_Descripcion": "FINLANDIA"
+    },
+    {
+      "NACP_Codigo": 91,
+      "NACC_Descripcion": "FRANCIA"
+    },
+    {
+      "NACP_Codigo": 92,
+      "NACC_Descripcion": "GABON"
+    },
+    {
+      "NACP_Codigo": 93,
+      "NACC_Descripcion": "GAMBIA"
+    },
+    {
+      "NACP_Codigo": 94,
+      "NACC_Descripcion": "GAZA Y JERICO"
+    },
+    {
+      "NACP_Codigo": 95,
+      "NACC_Descripcion": "GEORGIA"
+    },
+    {
+      "NACP_Codigo": 96,
+      "NACC_Descripcion": "GHANA"
+    },
+    {
+      "NACP_Codigo": 97,
+      "NACC_Descripcion": "GIBRALTAR"
+    },
+    {
+      "NACP_Codigo": 98,
+      "NACC_Descripcion": "GRANADA"
+    },
+    {
+      "NACP_Codigo": 99,
+      "NACC_Descripcion": "GRECIA"
+    },
+    {
+      "NACP_Codigo": 100,
+      "NACC_Descripcion": "GROENLANDIA"
+    },
+    {
+      "NACP_Codigo": 101,
+      "NACC_Descripcion": "GUADALUPE"
+    },
+    {
+      "NACP_Codigo": 102,
+      "NACC_Descripcion": "GUAM"
+    },
+    {
+      "NACP_Codigo": 103,
+      "NACC_Descripcion": "GUATEMALA"
+    },
+    {
+      "NACP_Codigo": 104,
+      "NACC_Descripcion": "GUAYANA FRANCESA"
+    },
+    {
+      "NACP_Codigo": 105,
+      "NACC_Descripcion": "GUERNSEY"
+    },
+    {
+      "NACP_Codigo": 106,
+      "NACC_Descripcion": "GUINEA"
+    },
+    {
+      "NACP_Codigo": 107,
+      "NACC_Descripcion": "GUINEA ECUATORIAL"
+    },
+    {
+      "NACP_Codigo": 108,
+      "NACC_Descripcion": "GUINEA-BISSAU"
+    },
+    {
+      "NACP_Codigo": 109,
+      "NACC_Descripcion": "GUYANA"
+    },
+    {
+      "NACP_Codigo": 110,
+      "NACC_Descripcion": "HAITI"
+    },
+    {
+      "NACP_Codigo": 111,
+      "NACC_Descripcion": "HONDURAS"
+    },
+    {
+      "NACP_Codigo": 112,
+      "NACC_Descripcion": "HONDURAS BRITANICAS"
+    },
+    {
+      "NACP_Codigo": 113,
+      "NACC_Descripcion": "HONG KONG"
+    },
+    {
+      "NACP_Codigo": 114,
+      "NACC_Descripcion": "HUNGRIA"
+    },
+    {
+      "NACP_Codigo": 115,
+      "NACC_Descripcion": "INDIA"
+    },
+    {
+      "NACP_Codigo": 116,
+      "NACC_Descripcion": "INDONESIA"
+    },
+    {
+      "NACP_Codigo": 117,
+      "NACC_Descripcion": "IRAK"
+    },
+    {
+      "NACP_Codigo": 118,
+      "NACC_Descripcion": "IRAN, REPUBLICA ISLAMICA DEL"
+    },
+    {
+      "NACP_Codigo": 119,
+      "NACC_Descripcion": "IRLANDA (EIRE)"
+    },
+    {
+      "NACP_Codigo": 120,
+      "NACC_Descripcion": "ISLA AZORES"
+    },
+    {
+      "NACP_Codigo": 121,
+      "NACC_Descripcion": "ISLA DEL MAN"
+    },
+    {
+      "NACP_Codigo": 122,
+      "NACC_Descripcion": "ISLANDIA"
+    },
+    {
+      "NACP_Codigo": 123,
+      "NACC_Descripcion": "ISLAS CANARIAS"
+    },
+    {
+      "NACP_Codigo": 124,
+      "NACC_Descripcion": "ISLAS DE CHRISTMAS"
+    },
+    {
+      "NACP_Codigo": 125,
+      "NACC_Descripcion": "ISLAS QESHM"
+    },
+    {
+      "NACP_Codigo": 126,
+      "NACC_Descripcion": "ISRAEL"
+    },
+    {
+      "NACP_Codigo": 127,
+      "NACC_Descripcion": "ITALIA"
+    },
+    {
+      "NACP_Codigo": 128,
+      "NACC_Descripcion": "JAMAICA"
+    },
+    {
+      "NACP_Codigo": 129,
+      "NACC_Descripcion": "JONSTON, ISLAS"
+    },
+    {
+      "NACP_Codigo": 130,
+      "NACC_Descripcion": "JAPON"
+    },
+    {
+      "NACP_Codigo": 131,
+      "NACC_Descripcion": "JERSEY"
+    },
+    {
+      "NACP_Codigo": 132,
+      "NACC_Descripcion": "JORDANIA"
+    },
+    {
+      "NACP_Codigo": 133,
+      "NACC_Descripcion": "KAZAJSTAN"
+    },
+    {
+      "NACP_Codigo": 134,
+      "NACC_Descripcion": "KENIA"
+    },
+    {
+      "NACP_Codigo": 135,
+      "NACC_Descripcion": "KIRIBATI"
+    },
+    {
+      "NACP_Codigo": 136,
+      "NACC_Descripcion": "KIRGUIZISTAN"
+    },
+    {
+      "NACP_Codigo": 137,
+      "NACC_Descripcion": "KUWAIT"
+    },
+    {
+      "NACP_Codigo": 138,
+      "NACC_Descripcion": "LABUN"
+    },
+    {
+      "NACP_Codigo": 139,
+      "NACC_Descripcion": "LAOS, REPUBLICA POPULAR DEMOCRATICA DE"
+    },
+    {
+      "NACP_Codigo": 140,
+      "NACC_Descripcion": "LESOTHO"
+    },
+    {
+      "NACP_Codigo": 141,
+      "NACC_Descripcion": "LETONIA"
+    },
+    {
+      "NACP_Codigo": 142,
+      "NACC_Descripcion": "LIBANO"
+    },
+    {
+      "NACP_Codigo": 143,
+      "NACC_Descripcion": "LIBERIA"
+    },
+    {
+      "NACP_Codigo": 144,
+      "NACC_Descripcion": "LIBIA"
+    },
+    {
+      "NACP_Codigo": 145,
+      "NACC_Descripcion": "LIECHTENSTEIN"
+    },
+    {
+      "NACP_Codigo": 146,
+      "NACC_Descripcion": "LITUANIA"
+    },
+    {
+      "NACP_Codigo": 147,
+      "NACC_Descripcion": "LUXEMBURGO"
+    },
+    {
+      "NACP_Codigo": 148,
+      "NACC_Descripcion": "MACAO"
+    },
+    {
+      "NACP_Codigo": 149,
+      "NACC_Descripcion": "MACEDONIA"
+    },
+    {
+      "NACP_Codigo": 150,
+      "NACC_Descripcion": "MADAGASCAR"
+    },
+    {
+      "NACP_Codigo": 151,
+      "NACC_Descripcion": "MADEIRA"
+    },
+    {
+      "NACP_Codigo": 152,
+      "NACC_Descripcion": "MALAYSIA"
+    },
+    {
+      "NACP_Codigo": 153,
+      "NACC_Descripcion": "MALAWI"
+    },
+    {
+      "NACP_Codigo": 154,
+      "NACC_Descripcion": "MALDIVAS"
+    },
+    {
+      "NACP_Codigo": 155,
+      "NACC_Descripcion": "MALI"
+    },
+    {
+      "NACP_Codigo": 156,
+      "NACC_Descripcion": "MALTA"
+    },
+    {
+      "NACP_Codigo": 157,
+      "NACC_Descripcion": "MARIANAS DEL NORTE, ISLAS"
+    },
+    {
+      "NACP_Codigo": 158,
+      "NACC_Descripcion": "MARSHALL, ISLAS"
+    },
+    {
+      "NACP_Codigo": 159,
+      "NACC_Descripcion": "MARRUECOS"
+    },
+    {
+      "NACP_Codigo": 160,
+      "NACC_Descripcion": "MARTINICA"
+    },
+    {
+      "NACP_Codigo": 161,
+      "NACC_Descripcion": "MAURICIO"
+    },
+    {
+      "NACP_Codigo": 162,
+      "NACC_Descripcion": "MAURITANIA"
+    },
+    {
+      "NACP_Codigo": 163,
+      "NACC_Descripcion": "MEXICO"
+    },
+    {
+      "NACP_Codigo": 164,
+      "NACC_Descripcion": "MICRONESIA, ESTADOS FEDERADOS DE"
+    },
+    {
+      "NACP_Codigo": 165,
+      "NACC_Descripcion": "MIDWAY ISLAS"
+    },
+    {
+      "NACP_Codigo": 166,
+      "NACC_Descripcion": "MOLDAVIA"
+    },
+    {
+      "NACP_Codigo": 167,
+      "NACC_Descripcion": "MONGOLIA"
+    },
+    {
+      "NACP_Codigo": 168,
+      "NACC_Descripcion": "MONACO"
+    },
+    {
+      "NACP_Codigo": 169,
+      "NACC_Descripcion": "MONTSERRAT, ISLA"
+    },
+    {
+      "NACP_Codigo": 170,
+      "NACC_Descripcion": "MOZAMBIQUE"
+    },
+    {
+      "NACP_Codigo": 171,
+      "NACC_Descripcion": "NAMIBIA"
+    },
+    {
+      "NACP_Codigo": 172,
+      "NACC_Descripcion": "NAURU"
+    },
+    {
+      "NACP_Codigo": 173,
+      "NACC_Descripcion": "NAVIDAD (CHRISTMAS), ISLA"
+    },
+    {
+      "NACP_Codigo": 174,
+      "NACC_Descripcion": "NEPAL"
+    },
+    {
+      "NACP_Codigo": 175,
+      "NACC_Descripcion": "NICARAGUA"
+    },
+    {
+      "NACP_Codigo": 176,
+      "NACC_Descripcion": "NIGER"
+    },
+    {
+      "NACP_Codigo": 177,
+      "NACC_Descripcion": "NIGERIA"
+    },
+    {
+      "NACP_Codigo": 178,
+      "NACC_Descripcion": "NIUE, ISLA"
+    },
+    {
+      "NACP_Codigo": 179,
+      "NACC_Descripcion": "NORFOLK, ISLA"
+    },
+    {
+      "NACP_Codigo": 180,
+      "NACC_Descripcion": "NORUEGA"
+    },
+    {
+      "NACP_Codigo": 181,
+      "NACC_Descripcion": "NUEVA CALEDONIA"
+    },
+    {
+      "NACP_Codigo": 182,
+      "NACC_Descripcion": "PAPUASIA NUEVA GUINEA"
+    },
+    {
+      "NACP_Codigo": 183,
+      "NACC_Descripcion": "NUEVA ZELANDA"
+    },
+    {
+      "NACP_Codigo": 184,
+      "NACC_Descripcion": "VANUATU"
+    },
+    {
+      "NACP_Codigo": 185,
+      "NACC_Descripcion": "OMAN"
+    },
+    {
+      "NACP_Codigo": 186,
+      "NACC_Descripcion": "PACIFICO, ISLAS DEL"
+    },
+    {
+      "NACP_Codigo": 187,
+      "NACC_Descripcion": "PAISES BAJOS"
+    },
+    {
+      "NACP_Codigo": 188,
+      "NACC_Descripcion": "PAKISTAN"
+    },
+    {
+      "NACP_Codigo": 189,
+      "NACC_Descripcion": "PALAU, ISLAS"
+    },
+    {
+      "NACP_Codigo": 190,
+      "NACC_Descripcion": "TERRITORIO AUTONOMO DE PALESTINA."
+    },
+    {
+      "NACP_Codigo": 191,
+      "NACC_Descripcion": "PANAMA"
+    },
+    {
+      "NACP_Codigo": 192,
+      "NACC_Descripcion": "PARAGUAY"
+    },
+    {
+      "NACP_Codigo": 193,
+      "NACC_Descripcion": "PERU"
+    },
+    {
+      "NACP_Codigo": 194,
+      "NACC_Descripcion": "PITCAIRN, ISLA"
+    },
+    {
+      "NACP_Codigo": 195,
+      "NACC_Descripcion": "POLINESIA FRANCESA"
+    },
+    {
+      "NACP_Codigo": 196,
+      "NACC_Descripcion": "POLONIA"
+    },
+    {
+      "NACP_Codigo": 197,
+      "NACC_Descripcion": "PORTUGAL"
+    },
+    {
+      "NACP_Codigo": 198,
+      "NACC_Descripcion": "PUERTO RICO"
+    },
+    {
+      "NACP_Codigo": 199,
+      "NACC_Descripcion": "QATAR"
+    },
+    {
+      "NACP_Codigo": 200,
+      "NACC_Descripcion": "REINO UNIDO"
+    },
+    {
+      "NACP_Codigo": 201,
+      "NACC_Descripcion": "ESCOCIA"
+    },
+    {
+      "NACP_Codigo": 202,
+      "NACC_Descripcion": "REPUBLICA ARABE UNIDA"
+    },
+    {
+      "NACP_Codigo": 203,
+      "NACC_Descripcion": "REPUBLICA CENTROAFRICANA"
+    },
+    {
+      "NACP_Codigo": 204,
+      "NACC_Descripcion": "REPUBLICA CHECA"
+    },
+    {
+      "NACP_Codigo": 205,
+      "NACC_Descripcion": "REPUBLICA DE SWAZILANDIA"
+    },
+    {
+      "NACP_Codigo": 206,
+      "NACC_Descripcion": "REPUBLICA DE TUNEZ"
+    },
+    {
+      "NACP_Codigo": 207,
+      "NACC_Descripcion": "REPUBLICA DOMINICANA"
+    },
+    {
+      "NACP_Codigo": 208,
+      "NACC_Descripcion": "REUNION"
+    },
+    {
+      "NACP_Codigo": 209,
+      "NACC_Descripcion": "ZIMBABWE"
+    },
+    {
+      "NACP_Codigo": 210,
+      "NACC_Descripcion": "RUMANIA"
+    },
+    {
+      "NACP_Codigo": 211,
+      "NACC_Descripcion": "RUANDA"
+    },
+    {
+      "NACP_Codigo": 212,
+      "NACC_Descripcion": "RUSIA"
+    },
+    {
+      "NACP_Codigo": 213,
+      "NACC_Descripcion": "SALOMON, ISLAS"
+    },
+    {
+      "NACP_Codigo": 214,
+      "NACC_Descripcion": "SAHARA OCCIDENTAL"
+    },
+    {
+      "NACP_Codigo": 215,
+      "NACC_Descripcion": "SAMOA OCCIDENTAL"
+    },
+    {
+      "NACP_Codigo": 216,
+      "NACC_Descripcion": "SAMOA NORTEAMERICANA"
+    },
+    {
+      "NACP_Codigo": 217,
+      "NACC_Descripcion": "SAN CRISTOBAL Y NIEVES"
+    },
+    {
+      "NACP_Codigo": 218,
+      "NACC_Descripcion": "SAN MARINO"
+    },
+    {
+      "NACP_Codigo": 219,
+      "NACC_Descripcion": "SAN PEDRO Y MIQUELON"
+    },
+    {
+      "NACP_Codigo": 220,
+      "NACC_Descripcion": "SAN VICENTE Y LAS GRANADINAS"
+    },
+    {
+      "NACP_Codigo": 221,
+      "NACC_Descripcion": "SANTA ELENA"
+    },
+    {
+      "NACP_Codigo": 222,
+      "NACC_Descripcion": "SANTA LUCIA"
+    },
+    {
+      "NACP_Codigo": 223,
+      "NACC_Descripcion": "SANTO TOME Y PRINCIPE"
+    },
+    {
+      "NACP_Codigo": 224,
+      "NACC_Descripcion": "SENEGAL"
+    },
+    {
+      "NACP_Codigo": 225,
+      "NACC_Descripcion": "SEYCHELLES"
+    },
+    {
+      "NACP_Codigo": 226,
+      "NACC_Descripcion": "SIERRA LEONA"
+    },
+    {
+      "NACP_Codigo": 227,
+      "NACC_Descripcion": "SINGAPUR"
+    },
+    {
+      "NACP_Codigo": 228,
+      "NACC_Descripcion": "SIRIA, REPUBLICA ARABE DE"
+    },
+    {
+      "NACP_Codigo": 229,
+      "NACC_Descripcion": "SOMALIA"
+    },
+    {
+      "NACP_Codigo": 230,
+      "NACC_Descripcion": "SRI LANKA"
+    },
+    {
+      "NACP_Codigo": 231,
+      "NACC_Descripcion": "SUDAFRICA, REPUBLICA DE"
+    },
+    {
+      "NACP_Codigo": 232,
+      "NACC_Descripcion": "SUDAN"
+    },
+    {
+      "NACP_Codigo": 233,
+      "NACC_Descripcion": "SUECIA"
+    },
+    {
+      "NACP_Codigo": 234,
+      "NACC_Descripcion": "SUIZA"
+    },
+    {
+      "NACP_Codigo": 235,
+      "NACC_Descripcion": "SURINAM"
+    },
+    {
+      "NACP_Codigo": 236,
+      "NACC_Descripcion": "SAWSILANDIA"
+    },
+    {
+      "NACP_Codigo": 237,
+      "NACC_Descripcion": "TADJIKISTAN"
+    },
+    {
+      "NACP_Codigo": 238,
+      "NACC_Descripcion": "TAILANDIA"
+    },
+    {
+      "NACP_Codigo": 239,
+      "NACC_Descripcion": "TANZANIA, REPUBLICA UNIDA DE"
+    },
+    {
+      "NACP_Codigo": 240,
+      "NACC_Descripcion": "DJIBOUTI"
+    },
+    {
+      "NACP_Codigo": 241,
+      "NACC_Descripcion": "TERRITORIO ANTARTICO BRITANICO"
+    },
+    {
+      "NACP_Codigo": 242,
+      "NACC_Descripcion": "TERRITORIO BRITANICO DEL OCEANO INDICO"
+    },
+    {
+      "NACP_Codigo": 243,
+      "NACC_Descripcion": "TIMOR DEL ESTE"
+    },
+    {
+      "NACP_Codigo": 244,
+      "NACC_Descripcion": "TOGO"
+    },
+    {
+      "NACP_Codigo": 245,
+      "NACC_Descripcion": "TOKELAU"
+    },
+    {
+      "NACP_Codigo": 246,
+      "NACC_Descripcion": "TONGA"
+    },
+    {
+      "NACP_Codigo": 247,
+      "NACC_Descripcion": "TRINIDAD Y TOBAGO"
+    },
+    {
+      "NACP_Codigo": 248,
+      "NACC_Descripcion": "TRISTAN DA CUNHA"
+    },
+    {
+      "NACP_Codigo": 249,
+      "NACC_Descripcion": "TUNICIA"
+    },
+    {
+      "NACP_Codigo": 250,
+      "NACC_Descripcion": "TURCAS Y CAICOS, ISLAS"
+    },
+    {
+      "NACP_Codigo": 251,
+      "NACC_Descripcion": "TURKMENISTAN"
+    },
+    {
+      "NACP_Codigo": 252,
+      "NACC_Descripcion": "TURQUIA"
+    },
+    {
+      "NACP_Codigo": 253,
+      "NACC_Descripcion": "TUVALU"
+    },
+    {
+      "NACP_Codigo": 254,
+      "NACC_Descripcion": "UCRANIA"
+    },
+    {
+      "NACP_Codigo": 255,
+      "NACC_Descripcion": "UGANDA"
+    },
+    {
+      "NACP_Codigo": 256,
+      "NACC_Descripcion": "URSS"
+    },
+    {
+      "NACP_Codigo": 257,
+      "NACC_Descripcion": "URUGUAY"
+    },
+    {
+      "NACP_Codigo": 258,
+      "NACC_Descripcion": "UZBEKISTAN"
+    },
+    {
+      "NACP_Codigo": 259,
+      "NACC_Descripcion": "VENEZUELA"
+    },
+    {
+      "NACP_Codigo": 260,
+      "NACC_Descripcion": "VIET NAM"
+    },
+    {
+      "NACP_Codigo": 261,
+      "NACC_Descripcion": "VIETNAM (DEL NORTE)"
+    },
+    {
+      "NACP_Codigo": 262,
+      "NACC_Descripcion": "VIRGENES, ISLAS (BRITANICAS)"
+    },
+    {
+      "NACP_Codigo": 263,
+      "NACC_Descripcion": "VIRGENES, ISLAS (NORTEAMERICANAS)"
+    },
+    {
+      "NACP_Codigo": 264,
+      "NACC_Descripcion": "FIJI"
+    },
+    {
+      "NACP_Codigo": 265,
+      "NACC_Descripcion": "WAKE, ISLA"
+    },
+    {
+      "NACP_Codigo": 266,
+      "NACC_Descripcion": "WALLIS Y FORTUNA, ISLAS"
+    },
+    {
+      "NACP_Codigo": 267,
+      "NACC_Descripcion": "YEMEN"
+    },
+    {
+      "NACP_Codigo": 268,
+      "NACC_Descripcion": "YUGOSLAVIA"
+    },
+    {
+      "NACP_Codigo": 269,
+      "NACC_Descripcion": "ZAIRE"
+    },
+    {
+      "NACP_Codigo": 270,
+      "NACC_Descripcion": "ZAMBIA"
+    },
+    {
+      "NACP_Codigo": 271,
+      "NACC_Descripcion": "ZONA DEL CANAL DE PANAMA"
+    },
+    {
+      "NACP_Codigo": 272,
+      "NACC_Descripcion": "ZONA LIBRE OSTRAVA"
+    },
+    {
+      "NACP_Codigo": 273,
+      "NACC_Descripcion": "ZONA NEUTRAL (PALESTINA)"
+    }
+  ]

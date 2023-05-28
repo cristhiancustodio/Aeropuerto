@@ -17,7 +17,7 @@ class Vuelo {
             $lis->lugar_llegada,
             $lis->precio_vuelo,
             $lis->transporte,
-            $lis->numero_escalas,
+            (int)$lis->numero_escalas,
         ];
         if($vuelo->insert($campos)){
             return true;
