@@ -1,0 +1,72 @@
+[
+  {
+    "lugar_partida": "ALDERNEY",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 23,
+    "transporte": "Nuevo Continente",
+    "numero_escalas": 9
+  },
+  {
+    "lugar_partida": "ALDERNEY",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 23,
+    "transporte": "Nuevo Continente",
+    "numero_escalas": 9
+  },
+  {
+    "lugar_partida": "ALDERNEY",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 23,
+    "transporte": "Nuevo Continente",
+    "numero_escalas": 9
+  },
+  {
+    "lugar_partida": "HEARD AND MC DONALD ISLANDS",
+    "lugar_llegada": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "precio": 100,
+    "transporte": "Sky Airline Perú",
+    "numero_escalas": 2
+  },
+  {
+    "lugar_partida": "MAYOTTE",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 360,
+    "transporte": "LATAM Perú",
+    "numero_escalas": 0
+  },
+  {
+    "lugar_partida": "MAYOTTE",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 360,
+    "transporte": "LATAM Perú",
+    "numero_escalas": 0
+  },
+  {
+    "lugar_partida": "MAYOTTE",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 360,
+    "transporte": "LATAM Perú",
+    "numero_escalas": 0
+  },
+  {
+    "lugar_partida": "MAYOTTE",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 360,
+    "transporte": "LATAM Perú",
+    "numero_escalas": 0
+  },
+  {
+    "lugar_partida": "MAYOTTE",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 360,
+    "transporte": "LATAM Perú",
+    "numero_escalas": 0
+  },
+  {
+    "lugar_partida": "MAYOTTE",
+    "lugar_llegada": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "precio": 360,
+    "transporte": "LATAM Perú",
+    "numero_escalas": 0
+  } 
+] 

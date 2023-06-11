@@ -39,7 +39,7 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 
 }
 if($_SERVER["REQUEST_METHOD"]=="GET"){
-if(isset($_GET["obt"]) && $_GET["obt"]==='1'){
+    if(isset($_GET["obt"]) && $_GET["obt"]==='1'){
     
     $data = $vuelo_model->select();
     echo json_encode($data,true);
