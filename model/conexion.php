@@ -6,9 +6,9 @@ use PDO;
 use PDOException;
 class Connect{
     private string $bd;
-    private string $host='localhost:3307';
-    private string $usuario='root';
-    private string $password='luisnunura123456';
+    private string $host='dbapi.mysql.database.azure.com';
+    private string $usuario='cristhiancustodio';
+    private string $password='Luisnunura123456';
     public function __construct(string $bd){
         $this->bd = $bd;
     }
