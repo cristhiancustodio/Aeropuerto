@@ -4,15 +4,15 @@ namespace Aeropuerto\Model\Conexion;
 
 use PDO;
 use PDOException;
-class Connect{
-    private string $bd;
-    private string $host='dbapi.mysql.database.azure.com';
-    private string $usuario='cristhiancustodio';
-    private string $password='Luisnunura123456';
-    public function __construct(string $bd){
-        $this->bd = $bd;
-    }
-    private function conectar(){
+class Conexion{
+   
+    private $bd;
+    private $base_datos = "reclutamiento";
+    private string $host='127.0.0.1:3307';
+    private string $usuario='root';
+    private string $password='luisnunura123456';
+
+    public function __construct(){
         $options = [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION, // Manejo de excepciones
             PDO::ATTR_EMULATE_PREPARES => false, // Desactivar emulación de preparación de consultas
@@ -20,18 +20,28 @@ class Connect{
             PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8mb4 COLLATE utf8mb4_unicode_ci" // Configuración de la codificación de caracteres
         ];
         try {
-            $conexion= new PDO("mysql:host=$this->host;dbname=$this->bd",$this->usuario,$this->password, $options);
-            if($conexion){
-                return $conexion;
-            }
-            else{
-                return null;
-            }
+            $this->bd = new PDO("mysql:host=$this->host;dbname=$this->base_datos",$this->usuario,$this->password, $options);
+
         } catch (PDOException $e) {
-            echo "Error".$e;
+            echo "Error ".$e->getMessage();
         }
     }
-    public function sentenciaSimple(?string $sql) : ?array {
+    protected function setBaseDatos(string $base_datos){
+        $this->base_datos = $base_datos;
+    }
+    public function getConnection(){
+        return $this->bd;
+    }
+    protected function getResult(string $sql){
+        return $this->bd->query($sql)->fetch(PDO::FETCH_OBJ);
+    }
+    protected function getResultAll(string $sql){
+        return $this->bd->query($sql)->fetchAll(PDO::FETCH_OBJ);
+    }
+    protected function prepare(string $sql, ?array $campos=null) : bool{
+        return $this->bd->prepare($sql)->execute($campos);
+    }
+    /*public function sentenciaSimple(?string $sql) : ?array {
         $con = $this->conectar();
         $stmt = $con->query($sql);
         $row = $stmt->fetch(PDO::FETCH_OBJ);
@@ -47,7 +57,7 @@ class Connect{
         $con = $this->conectar();
         $stmt = $con->prepare($sql);
         return $stmt->execute($lista);  
-    }
+    }*/
 }
 
 ?>

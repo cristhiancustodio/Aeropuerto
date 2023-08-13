@@ -1,18 +1,33 @@
 <?php 
 
 namespace Aeropuerto\Model\ConsultaModel;
+require_once("Model.php");
 
-require_once("conexion.php");
-use Aeropuerto\Model\Conexion\Connect;
 
-class ConsultaModel extends Connect{
-    public function __construct(){
-        parent::__construct("api_senati"); // coloco el nombre de la base de datos de mi conexion
+use Aeropuerto\Model\Model;
+
+
+class ConsultaModel extends Model{
+
+    protected $tablename = "carrera";
+
+    public function selectConsulta()
+    {
+        $data = $this->select("CARnombre");
+        return var_dump($data);
     }
-    public function select($dni) : ?array {
-        $sql = "SELECT * from personas where dni='$dni'";
-        return self::sentencia($sql);
+    public function insertConsulta(){
+        $campos = [
+            "CARnombre"=>"Programador super",
+        ];
+        $this->insert($campos);
     }
+    public function eliminarConsulta(){
+        $this->delete("CARid",31);
+    }
+
 }
 
+$consulta = new ConsultaModel();
+$consulta->eliminarConsulta();
 ?>
