@@ -52,7 +52,7 @@ class Calculator
 }
 
 $calcula = new Calculator(new MultiplicactionStrategy());
-$resultado = $calcula->execute(59,0);
+$resultado = $calcula->execute(59.2,50);
 echo $resultado;
 
 

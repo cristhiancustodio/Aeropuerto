@@ -1,0 +1,15 @@
+{
+    "name": "aeropuerto/slug",
+    "description": "solo de practicas",
+    "autoload": {
+        "psr-4": {
+            "Aeropuerto\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cristhian custodio"
+        }
+    ],
+    "require": {}
+}
