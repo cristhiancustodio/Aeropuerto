@@ -1,30 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
 
-    <input type="text" name="hemograma" id="hemograma">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+</head>
+<style>
+    #app_prueba {
+        border: 1px solid red;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 500px;
+    }
+
+    #app_prueba select {
+        background-color: skyblue;
+        width: 300px;
+    }
+</style>
+
+<body>
+    <input type="text" name="hemograma" id="hemograma" />
     <button id="boton">Click Aqui</button>
 
-    <input type="text" name="nombre_aprox" id="nombre" value="cristhian custodio">
+    <input type="text" name="nombre_aprox" id="nombre" value="cristhian custodio" />
 
     <div class="contenidos">
-
-        <input type="text" id="id1" name="name1" value="1">
-        <input type="text" id="id2" name="name2" value="2">
-        <input type="text" id="id3" name="name3" value="3">
-        <input type="text" id="id4" name="name4" value="4">
-        <input type="text" id="id5" name="name5" value="5">
-        <input type="text" id="id6" name="name6" value="6">
-        <input type="text" id="id7" name="name7" value="7">
-        <input type="text" id="id8" name="name8" value="8">
-        <input type="text" id="id9" name="name9" value="9">
-        <input type="text" id="id10" name="name10" value="10">
-
+        <input type="text" id="id1" name="name1" value="1" />
+        <input type="text" id="id2" name="name2" value="2" />
+        <input type="text" id="id3" name="name3" value="3" />
+        <input type="text" id="id4" name="name4" value="4" />
+        <input type="text" id="id5" name="name5" value="5" />
+        <input type="text" id="id6" name="name6" value="6" />
+        <input type="text" id="id7" name="name7" value="7" />
+        <input type="text" id="id8" name="name8" value="8" />
+        <input type="text" id="id9" name="name9" value="9" />
+        <input type="text" id="id10" name="name10" value="10" />
     </div>
     <select name="aptitud" id="aptitud" class="seleccion">
         <option value="normal">Normal</option>
@@ -35,14 +50,40 @@
     </select>
 
     <div class="contenido_radios">
-        uno <input type="radio" class="grup" name="brigada1" value="1">
-        dos <input type="radio" class="grup" name="brigada2" value="2">
-        tres<input type="radio" class="grup" name="brigada3" value="3">
-        cuatro<input type="radio" class="grup" name="brigada4" value="4">
-        cinco<input type="radio" class="grup" name="brigada5" value="5">
+        uno <input type="radio" class="grup" name="brigada1" value="1" /> dos
+        <input type="radio" class="grup" name="brigada2" value="2" /> tres<input type="radio" class="grup"
+            name="brigada3" value="3" />
+        cuatro<input type="radio" class="grup" name="brigada4" value="4" />
+        cinco<input type="radio" class="grup" name="brigada5" value="5" />
     </div>
 
-
+    <div id="app_prueba">
+        <table border="1" width="100%" style="border-collapse: collapse; border: 1px solid blue; margin: 10px">
+            <tr>
+                <td>
+                    <select   @change="seleccionarElementos" name="seleccion_div" id="seleccion_div">
+                        <option value="">[SELECCIONE]</option>
+                        <option value="10">Excel 1</option>
+                        <option value="11">Excel 2</option>
+                        <option value="12">Excel 3</option>
+                        <option value="13">Excel 4</option>
+                        <option value="14">Excel 5</option>
+                    </select>
+                </td>
+                <td>
+                    <button type="button" id="agregar" @click="eliminarElemento">Agregar</button>
+                </td>
+            </tr>
+            <tr v-for="(value, key) in elementosSeleccionados">
+                <td>
+                    {{value.nombre_excel}} <input type="text" hidden name="permitidos[]" :value="value.id">
+                </td>
+                <td> <button type="button" @click="eliminarElemento(key)">Eliminar</button> </td>
+            </tr>
+        </table>
+    </div>
 </body>
 <script src="clases.js"></script>
+<script src="practica_vue.js"></script>
+
 </html>
